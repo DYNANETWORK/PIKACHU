@@ -92,7 +92,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🤴 Repo", url="https://github.com/kaal0408/Pikachu"
+            text="🤴 Repo", url="https://github.com/SUKHPAL443/PIKACHU"
         ),
     ],
     [
@@ -103,12 +103,12 @@ buttons = [
     ],
     [
          InlineKeyboardButton(
-            text="👥 SUPPORT", url="https://t.me/PikachuX_Support"
+            text="👥 SUPPORT", url="https://t.me/PIKACHU_X_SPPORT"
         ),
     ],
    [
          InlineKeyboardButton(
-            text="👥 Owner", url="https://t.me/Hayat_Murat_30"
+            text="👥 Owner", url="https://t.me/HID_DENBOY"
         ),
     ],
 ]
@@ -121,7 +121,7 @@ HELP_STRINGS = """
 pikachu_IMG = "https://telegra.ph/file/caec4b208541417e7b4e6.jpg"
 
 DONATE_STRING = """hєчα, glαd tσ hєαr чσu wαnt tσ dσnαtє!
- чσu cαn ѕuppσrt thє prσjєct вч cσntαctíng @Hayat_Murat_30 \
+ чσu cαn ѕuppσrt thє prσjєct вч cσntαctíng @HID_DENBOY \
  ѕuppσrtíng íѕnt αlwαчѕ fínαncíαl! \
  thσѕє whσ cαnnσt prσvídє mσnєtαrч ѕuppσrt αrє wєlcσmє tσ hєlp uѕ dєvєlσp thє вσt αt ."""
 
@@ -376,7 +376,7 @@ def Pikachu_about_callback(update, context):
                  \n❍ í hαvє α nσtє kєєpíng ѕчѕtєm, вlαcklíѕtѕ, αnd єvєn prєdєtєrmínєd rєplíєѕ σn cєrtαín kєчwσrdѕѕ.
                  \n❍ í chєck fσr adminѕ' pєrmíѕѕíσnѕ вєfσrє єхєcutíng αnч cσmmαnd αnd mσrє ѕtuffѕ
                  \n\n_pikachu licensed under the GNU General Public License v3.0_
-                 \nhєrє íѕ thє [💾Repository](https://github.com/kaal0408/pikachu).
+                 \nhєrє íѕ thє [💾Repository](https://github.com/SUKHPAL443/PIKACHU).
                  \n\níf чσu hαvє αnч quєѕtíσn αвσut píkαchu, lєt uѕ knσw αt .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
