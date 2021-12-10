@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/Pikachu
-RUN git clone -b shiken https://github.com/kaal0408/Pikachu /root/Pikachu
+RUN git clone -b shiken https://github.com/SUKHPAL443/PIKACHU /root/Pikachu
 WORKDIR /root/Pikachu
 
 #Copy config file to /root/Pikachu/Pikachu
