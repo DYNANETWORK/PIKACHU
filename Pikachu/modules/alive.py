@@ -7,9 +7,9 @@ PHOTO = "https://telegra.ph/file/0ac1f1b5c5b2376a14f3f.jpg"
 @register(pattern=("/alive"))
 async def awake(event):
   PIKACHU = event.sender.first_name
-  PIKACHU = "**♡ I,m Pikachu** \n\n"
+  PIKACHU = "**♡ I,m ⭐🌟 P͙I͙K͙A͙C͙H͙U͙ 🌟⭐** \n\n"
   PIKACHU += "**♡ I'm Working Properly**\n\n"
-  PIKACHU += "**♡ pikachu : 2.2 LATEST**\n\n"
+  PIKACHU += "**♡ ⭐🌟 P͙I͙K͙A͙C͙H͙U͙ 🌟⭐ : 2.2 LATEST**\n\n"
   PIKACHU += "**♡ My Master :** [HACKER](t.me/HID_DENBOY)\n\n"
   PIKACHU += "**♡ Telethon Version : 1.23.0**\n\n"
   PIKACHU += "**♡ Kali Linux : yes**\n\n"
